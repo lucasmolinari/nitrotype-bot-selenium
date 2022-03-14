@@ -9,4 +9,7 @@ to miss the letter.
 
 Also I used another website this time instead of typeracer, since it was detecting bot behavior.
 
+Optimized this version today, is a lot better, using some functions so I can play test a lot of games a time, and also
+figured a way to play online.
+
 Thanks for reading, have a nice day.
